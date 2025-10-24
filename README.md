@@ -104,3 +104,14 @@ flutter run
   - Aceleração (x, y, z)
   - Direção (°)
 - **Botão dinâmico** para iniciar/parar o monitoramento.
+
+---
+
+## 📦 Download do Aplicativo
+
+A versão compilada do app já está disponível neste repositório.  
+Você pode baixar o arquivo `.apk` diretamente para instalar no seu dispositivo Android:
+
+👉 [Baixar Telemetry APK](./telemetry.apk)
+
+> 💡 *Para instalar, basta transferir o arquivo para o celular e abrir normalmente (é necessário permitir instalações de fontes desconhecidas).*
