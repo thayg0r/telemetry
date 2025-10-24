@@ -98,6 +98,14 @@ flutter run
 
 ## 📱 Interface
 
+Aqui estão algumas telas reais do aplicativo em funcionamento:
+
+<p align="center">
+  <img src="./image.jpg" alt="Tela principal do mapa" width="250"/>
+  <img src="./image-ii.jpg" alt="Painel de telemetria em tempo real" width="250"/>
+  <img src="./image-iii.jpg" alt="Monitoramento ativo com marcador" width="250"/>
+</p>
+
 - **Mapa com marcador dinâmico** indicando a posição atual.  
 - **Painel inferior** com dados de:
   - Velocidade (km/h)
